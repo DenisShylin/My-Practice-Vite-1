@@ -22,3 +22,17 @@
     justify-content: space-between;
     cursor: pointer;
 }
+
+.menu-toggle span {
+    width: 100%;
+    height: 2px;
+    background-color: white;
+}
+
+/* .content {
+    padding-left: 20px;
+    padding-top: 100px;
+    padding-bottom: 12px;
+    max-width: 600px;
+    margin: 0 auto;
+} */
