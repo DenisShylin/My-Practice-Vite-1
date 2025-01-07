@@ -1,5 +1,4 @@
 body {
-
     height: 568px;
     font-family: var(--font-family);
     background: linear-gradient(to bottom, #1a1a2e, #16213e);
@@ -7,8 +6,10 @@ body {
     min-height: 100vh;
 }
 
-.container-home {
+.container {
     min-width: 320px;
+    max-width: 375px;
+    margin: 0 auto;
     height: 568px;
     padding-top: 100px;
     padding-left: 20px;
